@@ -5,3 +5,8 @@
 `npm install`
 
 `npm start`
+
+
+# Demo
+
+![React-chart.gif]()
