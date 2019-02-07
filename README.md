@@ -9,4 +9,4 @@
 
 # Demo
 
-![React-chart.gif]()
+![](React-chart.gif)
